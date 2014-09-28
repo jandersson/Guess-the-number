@@ -3,7 +3,7 @@ __author__ = 'Jonas'
 #Mini project 3
 
 import random
-import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
+import simplegui
 import math
 
 secret_number = None
